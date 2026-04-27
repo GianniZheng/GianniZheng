@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║         🌟 FULL STACK DEVELOPER | TECH ENTHUSIAST 🌟        ║
 ║                                                              ║ 
-║           📍 Italia |  Origini Cinesi | 💻 Tech             ║
+║           📍 Italy | Chinese Origins | 💻 Tech             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,14 +12,14 @@
 
 ## 🎯 QUICK STATS
 
-| Metrica | Valore |
-|---------|--------|
-| 🎓 Anni di Formazione | 4+ (dal 3° anno superiore) |
-| 💼 Esperienza Professionale | 9 mesi (PCTO Tech7) |
-| 📚 Certificazioni | 12+ |
-| 🔤 Linguaggi Principali | 5 |
-| 📖 Progetti | In sviluppo |
-| 🎓 Formazione Attuale | ITS Tech Talent Factory |
+| Metric | Value |
+|--------|-------|
+| 🎓 Years of Training | 4+ (since 3rd year of high school) |
+| 💼 Professional Experience | 9 months (PCTO Tech7) |
+| 📚 Certifications | 12+ |
+| 🔤 Main Languages | 5 |
+| 📖 Projects | In development |
+| 🎓 Current Education | ITS Tech Talent Factory |
 
 ---
 
@@ -59,43 +59,43 @@
 
 ### 📌 Career Milestones
 
-✅ **Transizione di Carriera Riuscita**
+✅ **Successful Career Transition**
 
-- Cambio da sezione artistica a informatica (3° anno superiore)
-- Decisione coraggiosa che ha portato a scoprire una vera passione
+- Switch from Art track to Computer Science (3rd year of high school)
+- Bold decision that led to discovering a true passion
 
-✅ **Formazione Continua**
+✅ **Continuous Learning**
 
-- Completamento di 12+ certificazioni professionali
-- Certificati di sicurezza sul lavoro (Accenture, Videoterminali, Incendio, ecc.)
-- Corsi specializzati su AI, Data Science, e Web Development
+- Completed 12+ professional certifications
+- Workplace safety certificates (Accenture, Video Terminals, Fire, etc.)
+- Specialized courses in AI, Data Science, and Web Development
 
-✅ **Esperienza Professionale**
+✅ **Professional Experience**
 
-- PCTO presso Tech7, San Siro (9 mesi)
-- Ruolo di Web Developer generale
-- Sviluppo di soluzioni web complete
+- PCTO at Tech7, San Siro (9 months)
+- General Web Developer role
+- Complete web solution development
 
-✅ **Formazione Superiore Attuale**
+✅ **Current Higher Education**
 
-- ITS Tech Talent Factory - Corso Full Stack Developer
-- Istruzione Tecnologica Superiore specializzata
-- Formazione professionale intensiva per il mercato del lavoro
+- ITS Tech Talent Factory - Full Stack Developer Course
+- Specialized Higher Technical Education
+- Intensive professional training for the job market
 
-### 🏅 Certificazioni Completate
+### 🏅 Completed Certifications
 
-1. **Accenture Certificate** - Riconoscimento professionale
-2. **Digital - Smart Education** - Percorso Intensivo Web
-3. **Federica Web Learning** - Multi-disciplinare:
+1. **Accenture Certificate** - Professional recognition
+2. **Digital - Smart Education** - Intensive Web Path
+3. **Federica Web Learning** - Multi-disciplinary:
    - 🤖 AI Basics
    - 📊 Data Science Fundamentals
    - 💻 Programming Lab
    - 📚 Computer Science Fundamentals
-4. **Certificati di Sicurezza Professionale**:
-   - Videoterminali
-   - Rischio Basso
-   - Incendio e Mezzi Estinguenti
-   - Salute e Sicurezza
+4. **Professional Safety Certificates**:
+   - Video Terminals
+   - Low Risk
+   - Fire and Extinguishing Agents
+   - Health and Safety
   
 ---
 

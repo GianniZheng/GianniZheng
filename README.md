@@ -74,6 +74,7 @@
 
 - PCTO at Tech7, San Siro (9 months)
 - General Web Developer role
+- Stage Helpdesk 1°lv Longhys (3 moths)
 - Complete web solution development
 
 ✅ **Current Higher Education**
@@ -151,7 +152,6 @@
 2. **🚀 Ambizioni Future**
    - Diventare un architect di soluzioni web complesse
    - Contribuire a progetti open source impactful
-   - Guadagnare una posizione di leadership tech
 
 3. **💼 Vantaggi Professionali**
    - Mercato job in crescita continua

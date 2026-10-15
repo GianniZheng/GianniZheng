@@ -18,7 +18,7 @@
 | 💼 Professional Experience | 9 months (PCTO Tech7) |
 | 📚 Certifications | 12+ |
 | 🔤 Main Languages | 5 |
-| 📖 Projects | In development |
+| 📖 Projects | None |
 | 🎓 Current Education | ITS Tech Talent Factory |
 
 ---

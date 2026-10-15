@@ -166,7 +166,6 @@
 |--------|------|
 | 📧 **Email** | [gianni.zheng1@gmail.com](mailto:gianni.zheng1@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/gianni-zheng](https://www.linkedin.com/in/gianni-zheng) |
-| 📱 **Instagram** | [@Gianx6537](https://instagram.com/Gianx6537) |
 | 🐱 **GitHub** | Sei già qui! |
 
 ---
